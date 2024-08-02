@@ -1,0 +1,10 @@
+
+    ul.list-group {
+        list-style-type: none; /* Menghilangkan tanda titik */
+        padding: 0; /* Opsional: menghilangkan padding bawaan dari <ul> */
+    }
+    /* Opsional: Memperindah penempatan label */
+    label {
+        display: inline-block;
+        width: 200px;
+    }
